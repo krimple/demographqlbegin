@@ -1,2 +1,0 @@
-# demographqlbegin
-Begin app
